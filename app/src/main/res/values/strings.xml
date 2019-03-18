@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Daily</string>
+    <string name="callback_url">https://www.google.com/</string>
+    <string name="no_internet">There is no internet connection switching to offline mode</string>
+</resources>
